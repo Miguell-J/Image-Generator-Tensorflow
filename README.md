@@ -1,6 +1,6 @@
 # Image-Generator-Tensorflow
 
-<img src="Image_Generator.png"/>
+<img src="gerador img.png"/>
 
 Este é um exemplo simples de código que demonstra como usar o TensorFlow e a biblioteca Keras-CV para gerar imagens a partir de descrições de texto usando o modelo StableDiffusion. O código também utiliza o Matplotlib para exibir as imagens geradas.
 
@@ -51,7 +51,7 @@ Chamar a função plot_images para exibir as imagens geradas:
 plot_images(images)
 ```
 
-<img src="robots_in_the_beach.png"/>
+<img src="robot_in_the_beach.png"/>
 
 ## Uso
 - Certifique-se de ter instaladas as bibliotecas necessárias, conforme mencionado na seção "Instalação".
