@@ -1,7 +1,7 @@
 # Image-Generator-Tensorflow
 
 
-<img src="gerador img.png"/>
+<img src="https://camara360.org/wp-content/uploads/2022/08/midjourney-generador-imagenes-IA-1140x570.jpg"/>
 
 
 Este é um exemplo simples de código que demonstra como usar o TensorFlow e a biblioteca Keras-CV para gerar imagens a partir de descrições de texto usando o modelo StableDiffusion. O código também utiliza o Matplotlib para exibir as imagens geradas.
